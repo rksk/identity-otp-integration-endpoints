@@ -287,7 +287,7 @@
         <cxf-bundle.version>3.2.8</cxf-bundle.version>
         <com.fasterxml.jackson.jaxrs-json-provider-version>2.9.7</com.fasterxml.jackson.jaxrs-json-provider-version>
         <com.fasterxml.jackson.version>2.9.7</com.fasterxml.jackson.version>
-        <com.fasterxml.jackson.annotation.version>2.9.8</com.fasterxml.jackson.annotation.version>
+        <com.fasterxml.jackson.annotation.version>2.10.2</com.fasterxml.jackson.annotation.version>
         <jackson-databind.version>2.9.9.3</jackson-databind.version>
         <jackson-jaxrs-json-provider.version>2.9.9</jackson-jaxrs-json-provider.version>
         <jackson.version>1.9.13</jackson.version>
