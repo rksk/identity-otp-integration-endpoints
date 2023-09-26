@@ -295,7 +295,7 @@
         <swagger-jaxrs.version>1.5.20</swagger-jaxrs.version>
         <org.apache.felix.annotations.version>1.2.4</org.apache.felix.annotations.version>
         <org.apache.cxf.version>3.3.1</org.apache.cxf.version>
-        <springframework.version>4.1.6.RELEASE</springframework.version>
+        <springframework.version>5.2.3.RELEASE</springframework.version>
 
         <!-- open-api tool properties -->
         <openapi.tools.version>4.1.2</openapi.tools.version>
